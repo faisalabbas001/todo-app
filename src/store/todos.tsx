@@ -1,5 +1,5 @@
 
-import React, { ReactNode, createContext, useContext, useState, useEffect } from "react";
+import  { ReactNode, createContext, useContext, useState, useEffect } from "react";
 
 // create context  
 export const TodosContext = createContext<TodosContextType | null>(null);

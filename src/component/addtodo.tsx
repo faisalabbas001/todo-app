@@ -1,4 +1,4 @@
-import React, { useState } from 'react'; // Corrected import for React and useState
+import  { useState } from 'react'; // Corrected import for React and useState
 import { useTodos } from '../store/todos'; // Corrected import for useTodos
 
 const AddTodo = () => {
